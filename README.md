@@ -27,6 +27,6 @@
 负载即为data内参数，根据内容修改增加即可
 
 ## 常见问题
-``ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1006)``
-请降低urllib3版本后运行
+``ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1006)``  
+请降低urllib3版本后运行  
 ``pip install urllib3==1.26.5``
