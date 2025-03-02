@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/59890344-dbbb-4253-87c8-4945fbdacf3e)# autoLoginNetwork
+# autoLoginNetwork
 自动登录校园网脚本
 该脚本实现逻辑：每次执行时尝试ping网站，如果不通表明校园网认证未通过，执行登录逻辑，可以ping通表明认证通过便不再进行登录操作
 脚本需要配置四块地方：
